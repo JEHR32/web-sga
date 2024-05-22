@@ -1,0 +1,16 @@
+Notas Sanatorio Escudero.
+
+Filtro por fechas y tipo de estudio.
+Primero es establcer el rango de fecha en el cual se buscara el archivo asi mismo el archivo debe de tener los 
+datos de los archivos Otro filtro debe der ser el de tener 
+
+obtener script de ocutar codigo de pagina web 
+
+agregara dos lienaa de validacion donde primero se alide hacia el campo todos * y l campo donde se haga 
+el where sobre un solo unico elemento de criterio
+p/e where color = 'blanco';
+
+selectores de sweet alert 2.0
+
+Ir creando diagramas de clase y manual de procedimientos para entrega del proyecto funcional
+creacion de propuesta de pagina de control de pacientes ayudarte del generador de archivos sql de mail-hack 

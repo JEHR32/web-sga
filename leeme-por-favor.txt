@@ -1,0 +1,88 @@
+LA PRIMERA CARPETA ESTARÁ OCULTO - PARA SUBIR ARCHIVOS POR DEFAULT.
+CUALQUIER USUARIO PUEDE CREARLO.
+
+SOLO DEBES CONFIGURAR EN EL ARCHIVOS CONFIG.PHP ip.config.select("gets;");
+
+Reemplazar sentencias multi If con Switch en PHP 
+
+Reemplazar el selector de archivos - por Jquery 
+
+**************************************************************************************************
+
+Notas en la vista pricipal de gestion de archivos buscar la forma de que se muestre dos secciones:
+1.- Gestion de usuarios: 
+
+    Aqui se veran los datos de los usuarios que se registraran en el sistema.
+    Los datos visibles de los usuarios seran:
+
+        - Nombre completo <- dao generico ya establecido por el programa 
+        - correo electronico <- establecer datos de la empresas
+        - Numero de telefono <- crear sistemas de accion como bakends 
+        - Direccion  <- estilizar a colores de solura cmi 
+        - Fecha de registro <- buscar estilos de css para los slider de las NOMS 
+
+2.- Gestion de empresas: ecuaciones de segundo grado por metodo de sustitucion
+creacion de un control de prubvas de html 5 jajajaj
+desta tu poder con emperador rellenas de poder  
+
+    Aqui se veran los datos y responsable de la administracion de los archivos de la empresa
+datis que se recabna de 333
+        - Nombre de la empresas <- establecer los setters y getters 
+        - Direccion de la empresa
+        - Responsable
+        - Correo electronico - create table database_for_data_2 
+        - Numero de telefono - create table database_for_data 
+        - Fecha de registro - craete table database for users foreing key = 100
+
+**************************************************************************************************    
+
+En gestion de archivos.
+
+Eliminar la vista de archivos recientes.
+
+Crear la opcion de crear carpetas dentro de las carpetas.
+
+**************************************************************************************************
+
+Agregar los comentarios en las paginas enlazadas a las de crear carpetas.
+
+**************************************************************************************************
+
+Ya logre poner de minimo el boton solo falta poder agregar el modal 
+
+ver la clase del archivo admin.php, home.php y archivos.php
+
+crear el modelo de la vista de crear carpeta dentro de carpeta
+
+Revisar las consulta de las bases de datos como relaciones 
+    Tomar en cuenta la creacion de una nueva tabla en la base de datos que almacene los 
+    movimientos y actualizaciones.
+
+Analisis sintactico del la logica de mensajes de sistema
+someter a pruebas de compatibilidad de dispositivos la pagina.
+
+jesus eeduardo hernadez ramirez de la ts-josevasconcelos de buena vistas
+
+necesito ayuda para poder crear las subcarpetas help me
+
+JipsiAvenger - meregatron2.00.21
+
+
+the acording witch my hand 
+recorring witch my hand 
+
+
+Servicios por desactivar: 
+
+sysMain /- MEMORY CONSUM 15% / arc principal
+w-UPDATE /- MEMORY CONSUM 32% / Desactivar de las 3 formas
+W-SEARCH /- MEMORY CONSUM 8-10% / DEPENDE DE LAS BUSQUEDAS QUE SE REALICEN EN EL ADM-ARC
+
+ Actividades en segundo plano que se ejecutan...
+
+ Reestablecer el archivo leeme por favor ya que se borro las ocpciones de 
+ configuracion de correo SMPT 
+
+
+ // recorging witch my hand for ever tomorrow Last weenkend 
+ dark magic  

@@ -1,0 +1,49 @@
+Nombre de la empresa: Solura Apoyo e Integracion Empresarial.
+Proyecto para liberacion de practicas: Sistema de gestion de archivos.
+Periodo de realizacion: 12/noviembre/2023 - 12/abril/2024
+
+Descripcion del proyecto:
+Debe de ser una pagina web donde se realice la gestion de archivos, de los documentos que se comparten con los clientes.
+
+Procedimiento:
+Debe de tener una pagina principal de inicio de sesion y al iniciar segun el rol del usuario realizará:
+ 
+	El administrador debe de ser capaz de crear a los usuarios que entraran al sistema, asi como realizar las acciones 
+de crear carpetas y subcarpetas. "Yo entiendo que de dos niveles por ejemplo creo la carpeta CMS y dentro, creo las carpetas
+de observaciones, estudios, doctores y dentro de estas carpetas guardo los archivos pdf", que a su vez deben de poder 
+compartirse con el tipo de usuario cliente.
+	
+	*datos del usuario: Nombre, Direccion, Correo, Telefono, Fecha de creacion.
+	*datos del cliente: Area, Nombre, Direccion, Correo, Telefono, Fecha de creacion.
+
+	El usuario debe de ser otro tipo de administrador que se encargara de crear de la misma forma las carpetas, pero 
+sin las opciones de administrar a los usuarios. Solo servira de apoyo para poder subir archivos a las carpetas sin poder 
+compartirlas, ya que de esto se encarga el administrador.
+
+	Y el Cliente sera la persona que podra unicamente ver y descargar los archivos que se guardaron en las carpetas.
+
+ * NOTAS
+1.- El administrador y usuario de apoyo deben de poder ver las mismas carpetas que tienen creadas asi 
+    como las opciones de eliminar carpetas y archivos.
+2.- El cliente solo puede ver y descargar los archivos de las carpetas que le sean compartidas.
+3.- Todos los usuarios deben de poder cambiar sus contraseñas.
+4.- El administrador debe de ver en una tabla los usuarios y clientes existentes con los siguientes datos:
+	Usuario de apoyo: ("Identificador ID"), nombre completo, correo, telefono, fecha de registro.
+	Cliente: ("Identificador ID"), Area, nombre completo, correo, telefono,fecha de registro.
+    Y ambos deben de tener las opciones para editar y eliminar a los asuarios.
+    "Dos tablas una de usuario y otra de cliente sobre la misma pagina".
+5.- Solo el administrador debe de poder ver en una tabla los movimientos realizados por el usuario de apoyo ejemplo:
+	dr.cesar - creo carpeta [nombre de la carpeta] - [fecha de creacion de la carpeta]
+	lic.alejandro - elimino archivo [nombre del archivo eliminado] - [fecha de eliminacion del archivo]
+	lic.eduardo - elimino carpeta [nombre de la carpeta] - [fecha de eliminacion de la carpeta]
+
+
+
+
+*******************************************************************************************************************************
+
+directorio
+
+normas/modal-file/myModal2
+
+
